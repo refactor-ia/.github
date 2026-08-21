@@ -2,14 +2,15 @@
 
 **Migrar con criterio. No con hype.**
 
-Comunidad en español para desarrolladores que modernizan su arquitectura o integran IA.
+Comunidad en español para desarrolladores que modernizan su arquitectura, integran IA y quieren construir mejor software con criterio técnico.
 
-PCSoft es nuestro punto de partida, pero si venís de otro stack también sos bienvenido. Compartimos la experiencia real de la transición: qué funciona, qué no y cómo conservar lo útil de los sistemas que ya existen.
+Compartimos experiencias reales: qué funciona, qué no y cómo conservar lo útil de los sistemas que ya existen.
 
 ## Empezá por acá
 
 - [Discord](https://discord.gg/D3PhJ477Bj) para conversar y compartir experiencias.
-- [YouTube](https://www.youtube.com/@refactoria) para ver contenido práctico.
+- [RefactorIA Labs](https://www.youtube.com/@RefactorIA) para streams, sesiones largas y experimentación.
+- [RefactorIA Devs](https://www.youtube.com/@RefactorIADevs) para tutoriales y contenido curado.
 - [GitHub](https://github.com/refactor-ia) para explorar proyectos y aportar.
 
 ## Contenido
