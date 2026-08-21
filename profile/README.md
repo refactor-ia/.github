@@ -1,24 +1,24 @@
 # RefactorIA
 
-**Migrar con criterio. No con hype.**
+**Modernize with engineering judgment. No hype.**
 
-Comunidad en español para desarrolladores que modernizan su arquitectura, integran IA y quieren construir mejor software con criterio técnico.
+A Spanish-speaking community for developers modernizing their architecture, integrating AI, and building better software.
 
-Compartimos experiencias reales: qué funciona, qué no y cómo conservar lo útil de los sistemas que ya existen.
+We share real-world experience: what works, what does not, and how to preserve the useful parts of existing systems.
 
-## Empezá por acá
+## Start here
 
-- [Discord](https://discord.gg/D3PhJ477Bj) para conversar y compartir experiencias.
-- [RefactorIA Labs](https://www.youtube.com/@RefactorIA) para streams, sesiones largas y experimentación.
-- [RefactorIA Devs](https://www.youtube.com/@RefactorIADevs) para tutoriales y contenido curado.
-- [GitHub](https://github.com/refactor-ia) para explorar proyectos y aportar.
+- [Discord](https://discord.gg/D3PhJ477Bj) to join the conversation and share your experience.
+- [RefactorIA Labs](https://www.youtube.com/@RefactorIA) for streams, long-form sessions, and experimentation.
+- [RefactorIA Devs](https://www.youtube.com/@RefactorIADevs) for tutorials and curated content.
+- [GitHub](https://github.com/refactor-ia) to explore projects and contribute.
 
-## Contenido
+## Content
 
-- **Labs:** integraciones y pruebas sobre problemas reales.
-- **TurboTips:** consejos cortos para avanzar en la transición.
-- **Snippetazos:** fragmentos de código para llevar a tus proyectos.
-- **DevLore:** decisiones, límites y aprendizajes de arquitectura.
-- **Migraciones:** casos reales para modernizar sin empezar de cero.
+- **Labs:** integrations and experiments built around real problems.
+- **TurboTips:** short tips for moving your modernization forward.
+- **Snippetazos:** code snippets ready to use in your projects.
+- **DevLore:** architectural decisions, trade-offs, and lessons learned.
+- **Migraciones:** real-world modernization cases without starting from scratch.
 
-Traé tu contexto, tus dudas y lo que aprendiste en el camino. La idea es construir mejor, con criterio técnico.
+Bring your context, your questions, and what you have learned along the way. The goal is to build better software with sound technical judgment.
