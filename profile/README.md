@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/41): PR #41 feat: most viewed videos from the YouTube Data API (#31) abierto
+- `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/pull/25): PR #25 docs: list the real youtube playlists in the profile mergeado
 - `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/40): PR #40 feat: activity page, daily refresh and real playlists (#31) mergeado
 - `2026-10-16` [egdev6/quorb](https://github.com/egdev6/quorb/pull/112): PR #112 feat(macos): integración Quorb en macOS Apple Silicon (M0-M2 + M4 Keychain) mergeado
 - `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/57): PR #57 docs: add Built with NaN badge mergeado
 - `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/39): PR #39 docs: add Built with NaN badge abierto
 - `2026-10-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/315): PR #315 docs: add Built with NaN badge abierto
 - `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/pull/23): PR #23 docs: add Built with NaN badge abierto
-- `2026-10-16` [barbatdev/pi-packages](https://github.com/barbatdev/pi-packages/pull/11): PR #11 docs: add Built with NaN badge abierto
-- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/55): PR #55 chore(claude): remove temporary keychain diagnostics abierto
 
 **Últimos videos**
 
