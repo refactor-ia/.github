@@ -35,12 +35,22 @@ El punto de partida es la salida del ecosistema PCSoft, pero el canal es abierto
 
 ## Contenido
 
-- **Labs:** integraciones y experimentos construidos sobre problemas reales.
-- **TurboTips:** consejos cortos para acelerar tu transición.
-- **Snippetazos:** fragmentos de código listos para usar en tus proyectos.
-- **DevLore:** decisiones de arquitectura, trade-offs y lecciones aprendidas.
-- **Migraciones:** casos reales de modernización sin arrancar de cero.
-- **Opensource:** proyectos propios de la comunidad, para compartir, recibir feedback y colaborar.
+**[RefactorIA Devs](https://www.youtube.com/@RefactorIADevs)**
+
+- [IA para desarrolladores](https://www.youtube.com/playlist?list=PLHyE1_ybzabU): cómo meter IA en el flujo de trabajo sin perder el criterio.
+- [Agentes IA](https://www.youtube.com/playlist?list=PLYyKFx_ubmcw): agentes de código en proyectos reales, qué hacen bien y dónde fallan.
+- [Arquitectura](https://www.youtube.com/playlist?list=PLXgZYNWTtTNE): decisiones de diseño, trade-offs y lo que deja el software que sobrevive.
+- [Saliendo de Windev](https://www.youtube.com/playlist?list=PLX7ElcrG0UU4): la migración desde PC Soft hacia un stack moderno, paso a paso.
+- [Devlogs](https://www.youtube.com/playlist?list=PLFbfYOblJt3U): bitácora de lo que estamos construyendo, con lo que sale mal incluido.
+- [Open Build Room: NaN.Builders y Gentle-AI](https://www.youtube.com/playlist?list=PLP3wgshSph74): construcción en abierto junto a otras comunidades.
+
+**[RefactorIA Labs](https://www.youtube.com/@RefactorIA)**
+
+- [Labs](https://www.youtube.com/playlist?list=PLT1Ea8AGLC80c70voLUC2FeJVWwdr-z2D): streams y experimentos largos construyendo en vivo.
+- [Open Build Room](https://www.youtube.com/playlist?list=PLT1Ea8AGLC83z2BRh0oLHecNUkDoV4H7l): sesiones abiertas de construcción, en vivo y sin editar.
+- [Talleres](https://www.youtube.com/playlist?list=PLT1Ea8AGLC81mbvCnyusRsspD0czfemoi): sesiones prácticas para hacer, no solo mirar.
+
+**Open source:** proyectos propios de la comunidad en esta organización, para compartir, recibir feedback y colaborar.
 
 Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo es construir mejor software con criterio técnico.
 
