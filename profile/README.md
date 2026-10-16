@@ -44,6 +44,27 @@ El punto de partida es la salida del ecosistema PCSoft, pero el canal es abierto
 
 Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo es construir mejor software con criterio técnico.
 
+<!-- activity:start -->
+## Actividad reciente
+
+- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/40): PR #40 feat: activity page, daily refresh and real playlists (#31) mergeado
+- `2026-10-16` [egdev6/quorb](https://github.com/egdev6/quorb/pull/112): PR #112 feat(macos): integración Quorb en macOS Apple Silicon (M0-M2 + M4 Keychain) mergeado
+- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/57): PR #57 docs: add Built with NaN badge mergeado
+- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/39): PR #39 docs: add Built with NaN badge abierto
+- `2026-10-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/315): PR #315 docs: add Built with NaN badge abierto
+- `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/pull/23): PR #23 docs: add Built with NaN badge abierto
+- `2026-10-16` [barbatdev/pi-packages](https://github.com/barbatdev/pi-packages/pull/11): PR #11 docs: add Built with NaN badge abierto
+- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/55): PR #55 chore(claude): remove temporary keychain diagnostics abierto
+
+**Últimos videos**
+
+- [Le pedí Postmark y el agente agregó seguridad solo](https://www.youtube.com/watch?v=pBUprzpQWCo) · @RefactorIADevs
+- [Rediseñar una app fea con Claude Design (y la regresión que apareció)](https://www.youtube.com/watch?v=kBwcojVa7Ug) · @RefactorIADevs
+- [NaN.Builders Workspaces: cuánto cuestan y qué traen](https://www.youtube.com/watch?v=z8eZgdQrhJE) · @RefactorIADevs
+
+Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
+<!-- activity:end -->
+
 ---
 
 <p align="center">
