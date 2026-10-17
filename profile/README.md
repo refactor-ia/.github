@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/57): PR #57 docs: add Built with NaN badge mergeado
-- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/39): PR #39 docs: add Built with NaN badge abierto
-- `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/pull/23): PR #23 docs: add Built with NaN badge abierto
-- `2026-10-16` [barbatdev/pi-packages](https://github.com/barbatdev/pi-packages/pull/11): PR #11 docs: add Built with NaN badge abierto
-- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/55): PR #55 chore(claude): remove temporary keychain diagnostics abierto
-- `2026-10-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2309): PR #2309 fix(agents): label live peers that predate discovery publication mergeado
-- `2026-10-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2307): PR #2307 feat(shell): theme roles dedicated to the usage gauges mergeado
-- `2026-10-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.16): Release v0.1.0-alpha.16
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/319): PR #319 test(cli): harden symlink-cwd canonicalization per the #286 QA verdicts mergeado
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/318): PR #318 fix(qa): declare the blockquote quoting convention for diff-bearing requests mergeado
+- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/47): PR #47 feat: track outbound link clicks in umami mergeado
+- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/46): PR #46 feat: add cookieless umami analytics (#44) mergeado
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/317): PR #317 test(cli): harden symlink-cwd canonicalization per the #286 QA verdicts abierto
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/316): PR #316 fix(qa): declare the blockquote quoting convention for diff-bearing requests abierto
+- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/45): PR #45 feat: show barbat.dev articles from its atom feed (#43) mergeado
+- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/42): PR #42 feat: Gentle AI and NaN.Builders roles, full-width links hub mergeado
 
 **Últimos videos**
 
-- [Le pedí Postmark y el agente agregó seguridad solo](https://www.youtube.com/watch?v=pBUprzpQWCo) · @RefactorIADevs
-- [Rediseñar una app fea con Claude Design (y la regresión que apareció)](https://www.youtube.com/watch?v=kBwcojVa7Ug) · @RefactorIADevs
-- [NaN.Builders Workspaces: cuánto cuestan y qué traen](https://www.youtube.com/watch?v=z8eZgdQrhJE) · @RefactorIADevs
+- [Devlog #010](https://www.youtube.com/watch?v=NbE6AlpN3H8) · @RefactorIA
+- [Devlog #011](https://www.youtube.com/watch?v=Sgw2ZHGrkk4) · @RefactorIA
+- [Voz a texto con la API de NaN.Builders en una app real](https://www.youtube.com/watch?v=L2069W76WS4) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
