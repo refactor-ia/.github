@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/319): PR #319 test(cli): harden symlink-cwd canonicalization per the #286 QA verdicts mergeado
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/318): PR #318 fix(qa): declare the blockquote quoting convention for diff-bearing requests mergeado
-- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/47): PR #47 feat: track outbound link clicks in umami mergeado
-- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/46): PR #46 feat: add cookieless umami analytics (#44) mergeado
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/317): PR #317 test(cli): harden symlink-cwd canonicalization per the #286 QA verdicts abierto
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/316): PR #316 fix(qa): declare the blockquote quoting convention for diff-bearing requests abierto
-- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/45): PR #45 feat: show barbat.dev articles from its atom feed (#43) mergeado
-- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/42): PR #42 feat: Gentle AI and NaN.Builders roles, full-width links hub mergeado
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/322): PR #322 feat(documentation): seed the family with the guide-writing capability (Refs #321) mergeado
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/320): PR #320 docs(readme): fix quick-start against published prerelease (Refs #279) mergeado
+- `2026-10-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 2 commits
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 2 commits
+- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/commits): 3 commits
+- `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 6 commits
+- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/commits): 5 commits
+- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 2 commits
 
 **Últimos videos**
 
+- [Rediseñé mi app con Claude Design y apareció una regresión](https://www.youtube.com/watch?v=teXc6u7YHgw) · @RefactorIADevs
+- [Hermes vs Gentle Dot: extensible o integrado](https://www.youtube.com/watch?v=1kZmtDsO-Ik) · @RefactorIADevs
 - [Devlog #010](https://www.youtube.com/watch?v=NbE6AlpN3H8) · @RefactorIA
-- [Devlog #011](https://www.youtube.com/watch?v=Sgw2ZHGrkk4) · @RefactorIA
-- [Voz a texto con la API de NaN.Builders en una app real](https://www.youtube.com/watch?v=L2069W76WS4) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
