@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-18` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
+- `2026-10-18` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/292): PR #292 test(cli): end-to-end coverage for mode_drift plan output mergeado
+- `2026-10-18` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
+- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
 - `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/322): PR #322 feat(documentation): seed the family with the guide-writing capability (Refs #321) mergeado
 - `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/320): PR #320 docs(readme): fix quick-start against published prerelease (Refs #279) mergeado
+- `2026-10-17` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 4 commits
 - `2026-10-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 2 commits
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 2 commits
-- `2026-10-17` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/commits): 3 commits
-- `2026-10-16` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 6 commits
-- `2026-10-16` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/commits): 5 commits
-- `2026-10-16` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 2 commits
 
 **Últimos videos**
 
+- [Hablale a tu agente como a un compa](https://www.youtube.com/watch?v=07nHT9lcpF0) · @RefactorIADevs
 - [Rediseñé mi app con Claude Design y apareció una regresión](https://www.youtube.com/watch?v=teXc6u7YHgw) · @RefactorIADevs
 - [Hermes vs Gentle Dot: extensible o integrado](https://www.youtube.com/watch?v=1kZmtDsO-Ik) · @RefactorIADevs
-- [Devlog #010](https://www.youtube.com/watch?v=NbE6AlpN3H8) · @RefactorIA
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
