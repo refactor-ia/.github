@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-18` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
-- `2026-10-18` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/292): PR #292 test(cli): end-to-end coverage for mode_drift plan output mergeado
-- `2026-10-18` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/322): PR #322 feat(documentation): seed the family with the guide-writing capability (Refs #321) mergeado
-- `2026-10-17` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/320): PR #320 docs(readme): fix quick-start against published prerelease (Refs #279) mergeado
-- `2026-10-17` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 4 commits
-- `2026-10-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 2 commits
+- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2397): PR #2397 fix(profiles): surface role keys that match no discovered agent instead of ignoring them mergeado
+- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2402): PR #2402 chore(git): ignore local Cortex QA state abierto
+- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
+- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2398): PR #2398 test(skills): give the watcher error-injection poll a CI-sized deadline mergeado
+- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/340): PR #340 docs(design): revise Phase A of #332 to a directory projection target mergeado
+- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 4 commits
+- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/337): PR #337 docs(design): scoped plan for PowerShell runtime target and Windows platform mergeado
+- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/335): PR #335 fix(qa): configure per-backend QA routes in qa setup mergeado
 
 **Últimos videos**
 
-- [Hablale a tu agente como a un compa](https://www.youtube.com/watch?v=07nHT9lcpF0) · @RefactorIADevs
-- [Rediseñé mi app con Claude Design y apareció una regresión](https://www.youtube.com/watch?v=teXc6u7YHgw) · @RefactorIADevs
-- [Hermes vs Gentle Dot: extensible o integrado](https://www.youtube.com/watch?v=1kZmtDsO-Ik) · @RefactorIADevs
+- [Lo difícil de un SaaS no es técnico](https://www.youtube.com/watch?v=WsNM5Ez99cI) · @RefactorIADevs
+- [Mi app de presupuestos me responde con voz de Papá Noel](https://www.youtube.com/watch?v=KbZq4BgrI8s) · @RefactorIADevs
+- [Rodearse de los que saben: lo que me deja Alan](https://www.youtube.com/watch?v=OKAHpS4hiGk) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
