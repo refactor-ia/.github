@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2397): PR #2397 fix(profiles): surface role keys that match no discovered agent instead of ignoring them mergeado
-- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2402): PR #2402 chore(git): ignore local Cortex QA state abierto
-- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
-- `2026-10-19` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2398): PR #2398 test(skills): give the watcher error-injection poll a CI-sized deadline mergeado
-- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/340): PR #340 docs(design): revise Phase A of #332 to a directory projection target mergeado
-- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 4 commits
-- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/337): PR #337 docs(design): scoped plan for PowerShell runtime target and Windows platform mergeado
-- `2026-10-19` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/335): PR #335 fix(qa): configure per-backend QA routes in qa setup mergeado
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 4 commits
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/353): PR #353 feat(install): project capabilities into a directory target mergeado
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/356): PR #356 feat(qa): project QA actors as skills for directory targets and document the mode abierto
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/355): PR #355 feat(doctor): report directory target presence, writability, and ownership abierto
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/354): PR #354 feat(lifecycle): update and uninstall directory targets via recorded ownership abierto
+- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/349): PR #349 fix(qa): name the routed pair and the remedy on qa refusals mergeado
+- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/348): PR #348 feat: add Hermes Agent runtime target for skill installs abierto
+- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/347): PR #347 fix(qa): name the routed pair and the remedy on qa refusals mergeado
 
 **Últimos videos**
 
+- [Tiré 30 pedidos y el límite de 10 saltó](https://www.youtube.com/watch?v=Sb8yISoDJVg) · @RefactorIADevs
+- [Escalar por etapas: dejé que Whisper se rompa y lo arreglé con una cola](https://www.youtube.com/watch?v=D0roLZ5g5gM) · @RefactorIADevs
 - [Lo difícil de un SaaS no es técnico](https://www.youtube.com/watch?v=WsNM5Ez99cI) · @RefactorIADevs
-- [Mi app de presupuestos me responde con voz de Papá Noel](https://www.youtube.com/watch?v=KbZq4BgrI8s) · @RefactorIADevs
-- [Rodearse de los que saben: lo que me deja Alan](https://www.youtube.com/watch?v=OKAHpS4hiGk) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
