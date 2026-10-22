@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 4 commits
-- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/353): PR #353 feat(install): project capabilities into a directory target mergeado
-- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/356): PR #356 feat(qa): project QA actors as skills for directory targets and document the mode abierto
-- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/355): PR #355 feat(doctor): report directory target presence, writability, and ownership abierto
-- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/354): PR #354 feat(lifecycle): update and uninstall directory targets via recorded ownership abierto
-- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/349): PR #349 fix(qa): name the routed pair and the remedy on qa refusals mergeado
-- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/348): PR #348 feat: add Hermes Agent runtime target for skill installs abierto
-- `2026-10-20` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/347): PR #347 fix(qa): name the routed pair and the remedy on qa refusals mergeado
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 5 commits
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/78): PR #78 fix(fish): add the managed Pi home to PATH mergeado
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/77): PR #77 feat(gs): sync pulls the dotfiles clone and installs 10-core.fish mergeado
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.17): Release v0.1.0-alpha.17
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/71): PR #71 AeroSpace migration, installer portability (#25), profile parity mergeado
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/76): PR #76 feat(fish): default GENTLE_AI_CHANNEL to beta on every host mergeado
+- `2026-10-21` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/75): PR #75 fix(fish): 10-core.fish owns the macOS PATH, gentle-ai launchers first mergeado
+- `2026-10-21` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/362): PR #362 fix(qa): fail doctor asset check closed on untyped errors mergeado
 
 **Últimos videos**
 
-- [Tiré 30 pedidos y el límite de 10 saltó](https://www.youtube.com/watch?v=Sb8yISoDJVg) · @RefactorIADevs
-- [Escalar por etapas: dejé que Whisper se rompa y lo arreglé con una cola](https://www.youtube.com/watch?v=D0roLZ5g5gM) · @RefactorIADevs
-- [Lo difícil de un SaaS no es técnico](https://www.youtube.com/watch?v=WsNM5Ez99cI) · @RefactorIADevs
+- [Un comentario de Deco: hacete tu propia herramienta](https://www.youtube.com/watch?v=JBL8WWJMTLU) · @RefactorIADevs
+- [La Constitución del proyecto y mis agentes de QA](https://www.youtube.com/watch?v=Vz8KE1tj2rc) · @RefactorIADevs
+- [Quorb, un monitor de cuotas de IA open source: hacete la herramienta que no existe](https://www.youtube.com/watch?v=8dDDDjkeVVE) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
