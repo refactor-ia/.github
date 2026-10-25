@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall abierto
 - `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/386): PR #386 fix(filetxn): read directory identity through per-OS variants abierto
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/63): PR #63 revert: signing/notarization pipeline — marketplace-only distribution (#14) mergeado
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 9 commits
-- `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/pull/62): PR #62 feat: sign and notarize the NaN plugin for macOS distribution (#14) mergeado
-- `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/383): PR #383 feat(cli): name failing assets and drift cause on actor_guidance_unverified refusals abierto
-- `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/382): PR #382 feat(cli): name conflicting asset paths on install and uninstall conflict refusals abierto
+- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 11 commits
+- `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 2 commits
+- `2026-10-23` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
+- `2026-10-23` [barbatdev/quorb](https://github.com/barbatdev/quorb/commits): 1 commit
+- `2026-10-23` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 
 **Últimos videos**
 
+- [Hoy todos los modelos programan bien](https://www.youtube.com/watch?v=9r28ade-iBg) · @RefactorIADevs
+- [Tareas largas: roadmap con ODD para no perderte](https://www.youtube.com/watch?v=9NJBxaymPP0) · @RefactorIADevs
 - [¿Regresión? Era un túnel SSH](https://www.youtube.com/watch?v=wNUR1T80URA) · @RefactorIADevs
-- [Devlog #010 en 1 minuto: voz, Papá Noel y Claude Design](https://www.youtube.com/watch?v=fCbZQW0oqWk) · @RefactorIADevs
-- [Se me perdió el micrófono de la app: no era una regresión, era un túnel SSH](https://www.youtube.com/watch?v=LGM51ogSMTI) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
