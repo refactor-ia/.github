@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-25` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall abierto
 - `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/386): PR #386 fix(filetxn): read directory identity through per-OS variants abierto
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 11 commits
+- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 10 commits
 - `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 2 commits
 - `2026-10-23` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
 - `2026-10-23` [barbatdev/quorb](https://github.com/barbatdev/quorb/commits): 1 commit
-- `2026-10-23` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 
 **Últimos videos**
 
+- [Dormí 5 horas. No me imiten](https://www.youtube.com/watch?v=PfJeAO71Og8) · @RefactorIADevs
+- [Llego sin preparar nada y durmiendo 5 horas: no hagas lo que yo](https://www.youtube.com/watch?v=3eAYjwWEcGA) · @RefactorIADevs
 - [Hoy todos los modelos programan bien](https://www.youtube.com/watch?v=9r28ade-iBg) · @RefactorIADevs
-- [Tareas largas: roadmap con ODD para no perderte](https://www.youtube.com/watch?v=9NJBxaymPP0) · @RefactorIADevs
-- [¿Regresión? Era un túnel SSH](https://www.youtube.com/watch?v=wNUR1T80URA) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
