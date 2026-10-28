@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
+- `2026-10-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/393): PR #393 docs(contributing): accept external collaboration through issues only mergeado
 - `2026-10-26` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
 - `2026-10-26` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-25` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall abierto
-- `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/386): PR #386 fix(filetxn): read directory identity through per-OS variants abierto
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 8 commits
-- `2026-10-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
+- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 4 commits
 
 **Últimos videos**
 
+- [Hace 2 años no pagábamos por trabajar](https://www.youtube.com/watch?v=mONSREAmVoQ) · @RefactorIADevs
 - [No arranques en AWS](https://www.youtube.com/watch?v=fOYhtXjLg5k) · @RefactorIADevs
 - [Escalando la app de presupuestos: de SaaS chico a SaaS grandecito](https://www.youtube.com/watch?v=O95RAtUCnGw) · @RefactorIA
-- [Dormí 5 horas. No me imiten](https://www.youtube.com/watch?v=PfJeAO71Og8) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
