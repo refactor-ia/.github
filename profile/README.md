@@ -57,8 +57,8 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/49): PR #49 build(deps): minor updates for astro, @astrojs/check, @astrojs/sitemap and prettier mergeado
 - `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/50): PR #50 feat: amber accent-spark and Inter 500 for headings abierto
-- `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/49): PR #49 build(deps): minor updates for astro, @astrojs/check, @astrojs/sitemap and prettier abierto
 - `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/48): PR #48 build: migrate from npm to pnpm 12 abierto
 - `2026-10-29` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2640): PR #2640 fix(profiles): tidy review nits from #1992 re-review mergeado
 - `2026-10-29` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.19): Release v0.1.0-alpha.19
