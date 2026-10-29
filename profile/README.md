@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-10-29` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.19): Release v0.1.0-alpha.19
+- `2026-10-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/397): PR #397 fix(qa): accept validated Pi internal retry recovery mergeado
+- `2026-10-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.18): Release v0.1.0-alpha.18
+- `2026-10-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/395): PR #395 fix(qa): accept completed Pi reasoning streams mergeado
+- `2026-10-28` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/79): PR #79 fix(gs): launch the gentle-shell that gs sync updates mergeado
 - `2026-10-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
 - `2026-10-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/393): PR #393 docs(contributing): accept external collaboration through issues only mergeado
-- `2026-10-26` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
-- `2026-10-26` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-25` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall abierto
-- `2026-10-23` [refactor-ia/streamdeck-nan](https://github.com/refactor-ia/streamdeck-nan/commits): 4 commits
+- `2026-10-27` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 
 **Últimos videos**
 
