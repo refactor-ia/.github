@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/400): PR #400 docs: align alpha20 evidence and beta readiness abierto
-- `2026-10-29` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/releases/tag/v0.1.0-alpha.20): Release v0.1.0-alpha.20
-- `2026-10-29` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/399): PR #399 feat(reasoning): activate maintainer triad across runtimes mergeado
-- `2026-10-29` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/398): PR #398 feat(reasoning): admit bounded maintainer triage and review mergeado
-- `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/50): PR #50 feat: amber accent-spark and Inter 500 for headings mergeado
-- `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/49): PR #49 build(deps): minor updates for astro, @astrojs/check, @astrojs/sitemap and prettier mergeado
-- `2026-10-29` [refactor-ia/refactor-ia.github.io](https://github.com/refactor-ia/refactor-ia.github.io/pull/48): PR #48 build: migrate from npm to pnpm 12 mergeado
-- `2026-10-29` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2640): PR #2640 fix(profiles): tidy review nits from #1992 re-review mergeado
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/97): PR #97 feat(gs): official main launcher and migration runbook for agent-dev abierto
+- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/410): PR #410 feat(cli): report doctor probe route and scope mergeado
+- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/408): PR #408 fix(cli): escape routed pair diagnostics mergeado
+- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/407): PR #407 feat(cli): name preflight refusal stages and selected profiles mergeado
+- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/406): PR #406 feat(installobserve): type admission refusal stages mergeado
+- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/405): PR #405 fix(cli): validate the qa setup catalog root mergeado
+- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/404): PR #404 fix(qapi): refuse an unusable default profile source mergeado
+- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/403): PR #403 feat(qaroute): list admitted profile ids for refusals mergeado
 
 **Últimos videos**
 
