@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/97): PR #97 feat(gs): official main launcher and migration runbook for agent-dev abierto
-- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/410): PR #410 feat(cli): report doctor probe route and scope mergeado
-- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/408): PR #408 fix(cli): escape routed pair diagnostics mergeado
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/407): PR #407 feat(cli): name preflight refusal stages and selected profiles mergeado
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/406): PR #406 feat(installobserve): type admission refusal stages mergeado
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/405): PR #405 fix(cli): validate the qa setup catalog root mergeado
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/404): PR #404 fix(qapi): refuse an unusable default profile source mergeado
-- `2026-10-30` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/403): PR #403 feat(qaroute): list admitted profile ids for refusals mergeado
+- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/111): PR #111 fix(herdr): align sidebar numbers with space shortcuts abierto
+- `2026-10-31` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2715): PR #2715 docs(profiles): add roadmap for session routing and explicit editing abierto
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/110): PR #110 feat(herdr): show the Refactoria logo in the Herdr Desktop sidebar mergeado
+- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/412): PR #412 docs: separate evaluation alpha gates from full certification mergeado
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/108): PR #108 feat(herdr): add the missing Herdr TUI keys to Herdr Desktop mergeado
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/107): PR #107 fix(gs): only open PRs block gs issue mergeado
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/106): PR #106 feat(pi): version gentle-pi model profiles and sync them on install mergeado
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/105): PR #105 fix(gs): let gs issue start an issue assigned to you mergeado
 
 **Últimos videos**
 
