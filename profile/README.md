@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/114): PR #114 docs(gs): show that Pi package commands pass through gs abierto
-- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/113): PR #113 feat(herdr): shorten the PR panel title on the collapsed sidebar abierto
-- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/112): PR #112 feat(herdr): show the Refactoria beard on the collapsed sidebar mergeado
-- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 14 commits
+- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/116): PR #116 fix(engram): point gentle-ai at our Engram binary mergeado
+- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/114): PR #114 docs(gs): show that Pi package commands pass through gs mergeado
+- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/115): PR #115 fix(engram): stop startup provisioning from downgrading Engram v3 mergeado
+- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 1 commit
+- `2026-11-01` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
+- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 17 commits
 - `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
 - `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/412): PR #412 docs: separate evaluation alpha gates from full certification mergeado
-- `2026-10-31` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/410): PR #410 feat(cli): report doctor probe route and scope mergeado
 
 **Últimos videos**
 
