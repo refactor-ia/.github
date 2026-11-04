@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2844): PR #2844 fix(provider): raise DeepSeek V4 Flash output cap to 131,072 mergeado
+- `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/120): PR #120 fix(zsh): move PATH entries to the front even when already present mergeado
+- `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/119): PR #119 feat(gs)!: replace bin/gs and bin/gs-official with one deterministic Go gs mergeado
+- `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/118): PR #118 fix(gs): keep upgrade go installs off ~/.local/bin and fail on pre-v3 engram mergeado
+- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 1 commit
+- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/117): PR #117 fix(gs): pass the built Engram to gentle-ai sync and isolated setup mergeado
 - `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/116): PR #116 fix(engram): point gentle-ai at our Engram binary mergeado
 - `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/114): PR #114 docs(gs): show that Pi package commands pass through gs mergeado
-- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/115): PR #115 fix(engram): stop startup provisioning from downgrading Engram v3 mergeado
-- `2026-11-01` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 1 commit
-- `2026-11-01` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-10-31` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 17 commits
-- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
-- `2026-10-31` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/412): PR #412 docs: separate evaluation alpha gates from full certification mergeado
 
 **Últimos videos**
 
+- [Cuanto más contexto, más divaga la IA #shorts](https://www.youtube.com/watch?v=valRqNWmX4g) · @RefactorIADevs
 - [Hace 2 años no pagábamos por trabajar](https://www.youtube.com/watch?v=mONSREAmVoQ) · @RefactorIADevs
 - [No arranques en AWS](https://www.youtube.com/watch?v=fOYhtXjLg5k) · @RefactorIADevs
-- [Escalando la app de presupuestos: de SaaS chico a SaaS grandecito](https://www.youtube.com/watch?v=O95RAtUCnGw) · @RefactorIA
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
