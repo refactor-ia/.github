@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-05` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
+- `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
+- `2026-11-04` [matraket/gentle-shell](https://github.com/matraket/gentle-shell/commits): 1 commit
 - `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2844): PR #2844 fix(provider): raise DeepSeek V4 Flash output cap to 131,072 mergeado
+- `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 2 commits
 - `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/120): PR #120 fix(zsh): move PATH entries to the front even when already present mergeado
 - `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/119): PR #119 feat(gs)!: replace bin/gs and bin/gs-official with one deterministic Go gs mergeado
 - `2026-11-04` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/118): PR #118 fix(gs): keep upgrade go installs off ~/.local/bin and fail on pre-v3 engram mergeado
-- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/commits): 1 commit
-- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/117): PR #117 fix(gs): pass the built Engram to gentle-ai sync and isolated setup mergeado
-- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/116): PR #116 fix(engram): point gentle-ai at our Engram binary mergeado
-- `2026-11-03` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/114): PR #114 docs(gs): show that Pi package commands pass through gs mergeado
 
 **Últimos videos**
 
+- [Para una ventana de login no necesitás sobreingeniería #shorts](https://www.youtube.com/watch?v=u2sjW3be3fA) · @RefactorIADevs
 - [Cuanto más contexto, más divaga la IA #shorts](https://www.youtube.com/watch?v=valRqNWmX4g) · @RefactorIADevs
 - [Hace 2 años no pagábamos por trabajar](https://www.youtube.com/watch?v=mONSREAmVoQ) · @RefactorIADevs
-- [No arranques en AWS](https://www.youtube.com/watch?v=fOYhtXjLg5k) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
