@@ -68,9 +68,9 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 
 **Últimos videos**
 
-- [Dejar a la IA programando toda la noche? #shorts](https://www.youtube.com/watch?v=Wc1pvMK7E2s) · @RefactorIADevs
-- [Para una ventana de login no necesitás sobreingeniería #shorts](https://www.youtube.com/watch?v=u2sjW3be3fA) · @RefactorIADevs
-- [Cuanto más contexto, más divaga la IA #shorts](https://www.youtube.com/watch?v=valRqNWmX4g) · @RefactorIADevs
+- [DevLog - RefactorIA](https://www.youtube.com/watch?v=91ilTMjQSGw) · @RefactorIADevs
+- [DevLog - RefactorIA](https://www.youtube.com/watch?v=HPze0zwV_Hk) · @RefactorIADevs
+- [DevLog - RefactorIA](https://www.youtube.com/watch?v=l6096cIQ_8Q) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
