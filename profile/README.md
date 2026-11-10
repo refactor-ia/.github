@@ -57,6 +57,7 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-09` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-09` [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram/pull/944): PR #944 feat(store): enforce a deterministic maximum FTS query size mergeado
 - `2026-11-08` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-07` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
@@ -64,7 +65,6 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 - `2026-11-05` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
 - `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
 - `2026-11-04` [matraket/gentle-shell](https://github.com/matraket/gentle-shell/commits): 1 commit
-- `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/2844): PR #2844 fix(provider): raise DeepSeek V4 Flash output cap to 131,072 mergeado
 
 **Últimos videos**
 
