@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/422): PR #422 docs: define the project-owned evidence command abierto
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/420): PR #420 docs: define the evidence-first operating method abierto
+- `2026-11-10` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-09` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-09` [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram/pull/944): PR #944 feat(store): enforce a deterministic maximum FTS query size mergeado
 - `2026-11-08` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-07` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-06` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-05` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
-- `2026-11-04` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
-- `2026-11-04` [matraket/gentle-shell](https://github.com/matraket/gentle-shell/commits): 1 commit
 
 **Últimos videos**
 
+- [Un test en verde puede estar mal](https://www.youtube.com/watch?v=llTQmoNwfqs) · @RefactorIADevs
 - [No esperes que la IA te sugiera la revisión de seguridad #shorts](https://www.youtube.com/watch?v=abjiNIE30U0) · @RefactorIADevs
 - [Siempre un issue antes del PR (aunque programes solo) #shorts](https://www.youtube.com/watch?v=BVhQFYim5qc) · @RefactorIADevs
-- [DevLog - RefactorIA](https://www.youtube.com/watch?v=91ilTMjQSGw) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
