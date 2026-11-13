@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/422): PR #422 docs: define the project-owned evidence command abierto
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/420): PR #420 docs: define the evidence-first operating method abierto
-- `2026-11-10` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-09` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-09` [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram/pull/944): PR #944 feat(store): enforce a deterministic maximum FTS query size mergeado
-- `2026-11-08` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-07` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-06` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/438): PR #438 fix(cli): report an unreadable install state as invalid in doctor mergeado
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 5 commits
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/436): PR #436 feat(cli): name failing assets and drift cause on actor_guidance_unverified refusals mergeado
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall mergeado
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/435): PR #435 fix(installcoord): name drifted guidance assets with content drift first mergeado
+- `2026-11-12` [barbatjuan/cortex](https://github.com/barbatjuan/cortex/commits): 1 commit
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/434): PR #434 fix(cli): document --backend in qa setup usage and docs mergeado
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/382): PR #382 feat(cli): name conflicting asset paths on install and uninstall conflict refusals mergeado
 
 **Últimos videos**
 
+- [Un test en verde puede estar mal #shorts](https://www.youtube.com/watch?v=tPar5nJzRzw) · @RefactorIADevs
 - [Un test en verde puede estar mal](https://www.youtube.com/watch?v=llTQmoNwfqs) · @RefactorIADevs
 - [No esperes que la IA te sugiera la revisión de seguridad #shorts](https://www.youtube.com/watch?v=abjiNIE30U0) · @RefactorIADevs
-- [Siempre un issue antes del PR (aunque programes solo) #shorts](https://www.youtube.com/watch?v=BVhQFYim5qc) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
