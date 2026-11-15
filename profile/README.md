@@ -57,20 +57,18 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-13` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
 - `2026-11-13` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/439): PR #439 docs: state that beta1 model routes are user-owned mergeado
+- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 20 commits
 - `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/438): PR #438 fix(cli): report an unreadable install state as invalid in doctor mergeado
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 5 commits
 - `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/436): PR #436 feat(cli): name failing assets and drift cause on actor_guidance_unverified refusals mergeado
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/388): PR #388 fix(cli): refuse relative --target-dir in doctor, update, and uninstall mergeado
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/435): PR #435 fix(installcoord): name drifted guidance assets with content drift first mergeado
-- `2026-11-12` [barbatjuan/cortex](https://github.com/barbatjuan/cortex/commits): 1 commit
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/434): PR #434 fix(cli): document --backend in qa setup usage and docs mergeado
+- `2026-11-12` [barbatjuan/cortex](https://github.com/barbatjuan/cortex/commits): 3 commits
 
 **Últimos videos**
 
+- [La API cerró bien, la pantalla mentía #shorts](https://www.youtube.com/watch?v=U772bGNyQhI) · @RefactorIADevs
 - [SaaS de nicho: hacé una cosa bien y salí a venderla](https://www.youtube.com/watch?v=Tl5o6VT9NrA) · @RefactorIADevs
 - [Un test en verde puede estar mal #shorts](https://www.youtube.com/watch?v=tPar5nJzRzw) · @RefactorIADevs
-- [Un test en verde puede estar mal](https://www.youtube.com/watch?v=llTQmoNwfqs) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
