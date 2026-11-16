@@ -57,12 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-13` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
+- `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/441): PR #441 fix(qapi): disable Claude tools before report execution abierto
+- `2026-11-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
+- `2026-11-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3208): PR #3208 feat(profiles): a session's own start applies its profile's orchestrator mergeado
+- `2026-11-13` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
+- `2026-11-13` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 1 commit
 - `2026-11-13` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/439): PR #439 docs: state that beta1 model routes are user-owned mergeado
+- `2026-11-13` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 20 commits
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/438): PR #438 fix(cli): report an unreadable install state as invalid in doctor mergeado
-- `2026-11-12` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/436): PR #436 feat(cli): name failing assets and drift cause on actor_guidance_unverified refusals mergeado
-- `2026-11-12` [barbatjuan/cortex](https://github.com/barbatjuan/cortex/commits): 3 commits
 
 **Últimos videos**
 
