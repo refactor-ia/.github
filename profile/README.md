@@ -58,19 +58,19 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 ## Actividad reciente
 
 - `2026-11-19` [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai/pull/6195): PR #6195 fix(review): answer base-ref STATUS untracked declaration with its typed collect abierto
+- `2026-11-18` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/443): PR #443 docs: move OpenCode to experimental in the beta1 matrix mergeado
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/441): PR #441 fix(qapi): disable Claude tools before report execution mergeado
 - `2026-11-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
 - `2026-11-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3208): PR #3208 feat(profiles): a session's own start applies its profile's orchestrator mergeado
-- `2026-11-14` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 
 **Últimos videos**
 
+- [La IA me corrigió y tenía razón #shorts](https://www.youtube.com/watch?v=jq8kxbK0uI4) · @RefactorIADevs
 - [Mi setup con IA: Constitución, Herdr y design system](https://www.youtube.com/watch?v=boqa86Xc0tk) · @RefactorIADevs
 - [Mi constitución.md para trabajar con agentes #shorts](https://www.youtube.com/watch?v=wYsugwogxd0) · @RefactorIADevs
-- [Probalo vos: la API cerró, la UI mentía](https://www.youtube.com/watch?v=xX8i0QJL57c) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
