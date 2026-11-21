@@ -57,7 +57,7 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-19` [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai/pull/6195): PR #6195 fix(review): answer base-ref STATUS untracked declaration with its typed collect abierto
+- `2026-11-20` [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai/pull/6195): PR #6195 fix(review): answer base-ref STATUS untracked declaration with its typed collect mergeado
 - `2026-11-18` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
@@ -68,9 +68,9 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 
 **Últimos videos**
 
+- [La decisión de producto es tuya (aunque la IA a veces tenga razón)](https://www.youtube.com/watch?v=yeTeipWXmcI) · @RefactorIADevs
 - [La IA me corrigió y tenía razón #shorts](https://www.youtube.com/watch?v=jq8kxbK0uI4) · @RefactorIADevs
 - [Mi setup con IA: Constitución, Herdr y design system](https://www.youtube.com/watch?v=boqa86Xc0tk) · @RefactorIADevs
-- [Mi constitución.md para trabajar con agentes #shorts](https://www.youtube.com/watch?v=wYsugwogxd0) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
