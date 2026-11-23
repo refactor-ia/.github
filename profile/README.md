@@ -57,14 +57,14 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
+- `2026-11-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/445): PR #445 fix(doctor): return conflict for invalid directory ownership abierto
 - `2026-11-21` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-20` [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai/pull/6195): PR #6195 fix(review): answer base-ref STATUS untracked declaration with its typed collect mergeado
+- `2026-11-20` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-18` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-17` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/commits): 3 commits
 - `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/443): PR #443 docs: move OpenCode to experimental in the beta1 matrix mergeado
-- `2026-11-16` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/441): PR #441 fix(qapi): disable Claude tools before report execution mergeado
-- `2026-11-16` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
 
 **Últimos videos**
 
