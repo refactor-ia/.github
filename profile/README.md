@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-24` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3514): PR #3514 feat(profiles): record every session's startup state at its own start abierto
+- `2026-11-25` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3551): PR #3551 test(profiles): pin the remaining #1064 acceptance invariants abierto
+- `2026-11-25` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3514): PR #3514 feat(profiles): record every session's startup state at its own start mergeado
+- `2026-11-24` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 2 commits
+- `2026-11-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
+- `2026-11-24` [danielgap/gentle-pi](https://github.com/danielgap/gentle-pi/commits): 1 commit
 - `2026-11-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/446): PR #446 fix(cli): name early QA preflight refusal stages abierto
-- `2026-11-23` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 3 commits
+- `2026-11-23` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 6 commits
 - `2026-11-23` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-23` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/445): PR #445 fix(doctor): return conflict for invalid directory ownership abierto
-- `2026-11-21` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-20` [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai/pull/6195): PR #6195 fix(review): answer base-ref STATUS untracked declaration with its typed collect mergeado
-- `2026-11-20` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
 
 **Últimos videos**
 
+- [15 minutos o 48 horas: la pregunta que define tu infra #shorts](https://www.youtube.com/watch?v=Fhhy_giyLlQ) · @RefactorIADevs
 - [Auditar sin leer código: tres estados de evidencia](https://www.youtube.com/watch?v=XJSLQqXNyRQ) · @RefactorIADevs
 - [Revisar no es leer líneas #shorts](https://www.youtube.com/watch?v=FW0ntCzfkHk) · @RefactorIADevs
-- [La decisión de producto es tuya (aunque la IA a veces tenga razón)](https://www.youtube.com/watch?v=yeTeipWXmcI) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
