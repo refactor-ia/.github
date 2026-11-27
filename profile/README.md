@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-25` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3551): PR #3551 test(profiles): pin the remaining #1064 acceptance invariants mergeado
-- `2026-11-25` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3514): PR #3514 feat(profiles): record every session's startup state at its own start mergeado
-- `2026-11-25` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 1 commit
-- `2026-11-24` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 3 commits
-- `2026-11-24` [refactor-ia/.github](https://github.com/refactor-ia/.github/commits): 1 commit
-- `2026-11-24` [danielgap/gentle-pi](https://github.com/danielgap/gentle-pi/commits): 1 commit
-- `2026-11-24` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/446): PR #446 fix(cli): name early QA preflight refusal stages abierto
-- `2026-11-23` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/commits): 6 commits
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/126): PR #126 feat(omniwm): replace yabai with OmniWM and add the RefactorIA OmniShell style mergeado
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/125): PR #125 fix(zsh): make herdr-screens install every refactoria mod mergeado
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/124): PR #124 feat(herdr): rebuild the Herdr Desktop sidebar and GitHub panel on Gentle Shell events mergeado
+- `2026-11-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/455): PR #455 fix(qa): check Pi auth for the resolved route provider abierto
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/123): PR #123 fix(zsh): route gentle-shell update through the installer's pinned pnpm mergeado
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/122): PR #122 chore(git): ignore Claude themes managed by gentle-ai sync mergeado
+- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/121): PR #121 fix(zsh): keep PNPM_HOME ahead of PNPM_HOME/bin in official Gentle PATH mergeado
+- `2026-11-27` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3584): PR #3584 fix(profiles): apply startup profile to named sessions mergeado
 
 **Últimos videos**
 
+- [Un 404 que le echaba la culpa al usuario #shorts](https://www.youtube.com/watch?v=vhn-cPYaeNw) · @RefactorIADevs
 - [Cuánto te aguantás con el sistema parado?](https://www.youtube.com/watch?v=KACvGN8tWY4) · @RefactorIADevs
 - [15 minutos o 48 horas: la pregunta que define tu infra #shorts](https://www.youtube.com/watch?v=Fhhy_giyLlQ) · @RefactorIADevs
-- [Auditar sin leer código: tres estados de evidencia](https://www.youtube.com/watch?v=XJSLQqXNyRQ) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
