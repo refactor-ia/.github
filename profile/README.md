@@ -57,20 +57,20 @@ Traé tu contexto, tus preguntas y lo que aprendiste en el camino. El objetivo e
 <!-- activity:start -->
 ## Actividad reciente
 
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/126): PR #126 feat(omniwm): replace yabai with OmniWM and add the RefactorIA OmniShell style mergeado
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/125): PR #125 fix(zsh): make herdr-screens install every refactoria mod mergeado
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/124): PR #124 feat(herdr): rebuild the Herdr Desktop sidebar and GitHub panel on Gentle Shell events mergeado
-- `2026-11-27` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/455): PR #455 fix(qa): check Pi auth for the resolved route provider abierto
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/123): PR #123 fix(zsh): route gentle-shell update through the installer's pinned pnpm mergeado
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/122): PR #122 chore(git): ignore Claude themes managed by gentle-ai sync mergeado
-- `2026-11-27` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/121): PR #121 fix(zsh): keep PNPM_HOME ahead of PNPM_HOME/bin in official Gentle PATH mergeado
-- `2026-11-27` [Gentleman-Programming/gentle-shell](https://github.com/Gentleman-Programming/gentle-shell/pull/3584): PR #3584 fix(profiles): apply startup profile to named sessions mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/463): PR #463 refactor(qa)!: drop nan placeholder role defaults mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/461): PR #461 feat(qa): show effective role routes with qa routes mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/460): PR #460 feat(qa): assign a model per role with qa setup --role mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/467): PR #467 fix(qa): classify Pi responses against the route provider mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/455): PR #455 fix(qa): check Pi auth for the resolved route provider mergeado
+- `2026-11-28` [refactor-ia/cortex](https://github.com/refactor-ia/cortex/pull/472): PR #472 fix(qa): refuse unsafe route tokens at the invocation boundary abierto
+- `2026-11-28` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/136): PR #136 feat(herdr): notifications, smart links, GitHub actions, veil and usage mergeado
+- `2026-11-28` [barbatdev/cortex-dotfiles](https://github.com/barbatdev/cortex-dotfiles/pull/135): PR #135 fix(herdr): keep agent card names short next to auto-named tabs mergeado
 
 **Últimos videos**
 
+- [El contrato de error de tu API (y por qué un 404 puede mentir)](https://www.youtube.com/watch?v=CYWcBZ6WEKQ) · @RefactorIADevs
 - [Un 404 que le echaba la culpa al usuario #shorts](https://www.youtube.com/watch?v=vhn-cPYaeNw) · @RefactorIADevs
 - [Cuánto te aguantás con el sistema parado?](https://www.youtube.com/watch?v=KACvGN8tWY4) · @RefactorIADevs
-- [15 minutos o 48 horas: la pregunta que define tu infra #shorts](https://www.youtube.com/watch?v=Fhhy_giyLlQ) · @RefactorIADevs
 
 Toda la actividad en [refactoria.dev/now](https://refactoria.dev/now). Se actualiza una vez por día.
 <!-- activity:end -->
